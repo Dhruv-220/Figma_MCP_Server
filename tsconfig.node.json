@@ -6,7 +6,11 @@
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "noEmit": true
+    "noEmit": false
   },
-  "include": ["vite.config.ts", "postcss.config.js", "tailwind.config.js"]
-} 
+  "include": [
+    "vite.config.ts",
+    "postcss.config.js",
+    "tailwind.config.js"
+  ]
+}

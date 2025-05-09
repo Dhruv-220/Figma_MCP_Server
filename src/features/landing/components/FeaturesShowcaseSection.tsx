@@ -55,8 +55,7 @@ const FeaturesShowcaseSection: React.FC<FeaturesSectionProps> = ({
                 key={feature.id}
                 iconSrc={feature.iconSrc}
                 title={feature.title}
-                description={feature.description}
-              />
+                description={feature.description} id={''} />
             ))}
           </div>
         )}
