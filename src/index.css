@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global styles here if needed */
+body {
+  font-family: 'Inter', sans-serif; /* Default font from Figma data */
+  /* TODO: Add more global styles based on Figma, e.g., background colors */
+} 
