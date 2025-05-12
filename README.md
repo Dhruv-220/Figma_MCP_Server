@@ -78,4 +78,7 @@ This project aims to follow these key principles (as per user request):
 - **Performance Optimization**: `React.memo`, `useMemo`, `useCallback`, code-splitting.
 - **Error Handling Strategy**: Error boundaries, try/catch, user-friendly messages.
 - **Accessibility Standards**: Semantic HTML, ARIA, keyboard navigation, WCAG 2.1 AA.
-- **Code Quality Standards**: Consistent naming, small functions, meaningful comments, linting. 
+- **Code Quality Standards**: Consistent naming, small functions, meaningful comments, linting.
+
+  ## Vercel Deployment
+  https://figma-mcp-server-e8sy.vercel.app/
